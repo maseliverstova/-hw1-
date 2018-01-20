@@ -45,11 +45,9 @@ MY FAVOURITE BOOKS| MY FAVOURITE SINGERS |MY HOBBYS
 German is one the most  confident and strongest langues I've ever heard
 
 ***
+* __what admires me?__ (https://vk.com/videos257262477?z=video-43696984_456239024%2Fpl_257262477_-2
 
-Take care of your body
 
-___
-
-<a href="https://vk.com/videos257262477?z=video-43696984_456239020%2Fpl_257262477_-2
+* __What is The Best advertising?__ <a href="https://vk.com/videos257262477?z=video-43696984_456239020%2Fpl_257262477_-2
 " target="_blank"><img src="https://vk.com/video-43696984_456239020?t=12s" 
 alt="https://wallperz.com/wp-content/uploads/2017/01/04/wallperz.com-20170104060029.jpg" width="240" height="180" border="10" /></a>
