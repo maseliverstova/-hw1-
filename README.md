@@ -18,7 +18,7 @@
 
 [INSTAGRAM](https://www.instagram.com/peche_melba.8/)
 
-![MY PHOTO](http://sro.today/wp-content/uploads/2014/11/2-logotip-vshe.jpg width="240" height="180" border="10")
+![MY PHOTO](http://sro.today/wp-content/uploads/2014/11/2-logotip-vshe.jpg)
 
 MY FAVOURITE BOOKS| MY FAVOURITE SINGERS |MY HOBBYS
 --- | --- | ---
