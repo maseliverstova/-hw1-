@@ -4,22 +4,31 @@
 ### student of _Higher School of Economics_
 ~~**I am:**~~
 
-* a musician
-* a sporstmen
+* Musician
+* Sporstmen
+* Creator
+* Designer
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
 [My VK page](https://vk.com/selik_m99)
 
+![MY PHOTO](https://pp.userapi.com/c639116/v639116372/4a538/FIkVvwxxW34.jpg)
+
 [INSTAGRAM](https://www.instagram.com/peche_melba.8/)
 
-![MY PHOTO](http://sro.today/wp-content/uploads/2014/11/2-logotip-vshe.jpg "Logo Title Text 1")
+![MY PHOTO](http://sro.today/wp-content/uploads/2014/11/2-logotip-vshe.jpg width="240" height="180" border="10")
 
-MY FAVOURITE BOOK| MY FAVOURITE SINGER |MY HOBBY
+MY FAVOURITE BOOKS| MY FAVOURITE SINGERS |MY HOBBYS
 --- | --- | ---
-*one of them* | `the voice in 4 octaves` | **can't live without...**
-The Hitchhiker's Guide to the Galaxy | Sumi Jo| Art (drawing)
+*They are...* | `the voice in 4 octaves` | **can't live without...**
+"The Hitchhiker's Guide to the Galaxy" | Sumi Jo| Art (drawing)
+| Leo Tolstoy "Anna Karenina"|Christina Aguilera | singing
+|J.D.Salanger "The Catcher in the Rye"|Elton John|running
+|Jules Vern " Twenty Thousand Leagues Under the Sea"|Pavarotti|learning languages
+
+                            
 
 <dl>
    <dt>My Quote</dt>
@@ -41,5 +50,6 @@ Take care of your body
 
 ___
 
-Keep Calm and Study Hard
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://vk.com/video-29302425_456239664 " target="_blank"><img src="https://vk.com/video-29302425_456239664?t=3s"alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://vk.com/videos257262477?z=video-43696984_456239020%2Fpl_257262477_-2
+" target="_blank"><img src="https://vk.com/video-43696984_456239020?t=12s" 
+alt="https://wallperz.com/wp-content/uploads/2017/01/04/wallperz.com-20170104060029.jpg" width="240" height="180" border="10" /></a>
