@@ -22,7 +22,7 @@
 
 MY FAVOURITE BOOKS| MY FAVOURITE SINGERS |MY HOBBYS
 --- | --- | ---
-*They are...* | `the voice in 4 octaves` | **can't live without...**
+*They are...* | `the best voices in the world` | **can't live without...**
 "The Hitchhiker's Guide to the Galaxy" | Sumi Jo| Art (drawing)
 | Leo Tolstoy "Anna Karenina"|Christina Aguilera | singing
 |J.D.Salanger "The Catcher in the Rye"|Elton John|running
@@ -38,11 +38,11 @@ MY FAVOURITE BOOKS| MY FAVOURITE SINGERS |MY HOBBYS
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-## the last from training - the first at the finishing
+## the lastest from training - the first at the finishing
 
 ---
 
-German is one the most  confident and strongest langues I've ever heard
+German is one the most  confident and strongest languages I've ever heard
 
 ***
 * __what admires me?__ (https://vk.com/videos257262477?z=video-43696984_456239024%2Fpl_257262477_-2
